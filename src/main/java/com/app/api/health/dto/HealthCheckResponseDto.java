@@ -1,4 +1,4 @@
-package com.app.api.dto;
+package com.app.api.health.dto;
 
 import lombok.Builder;
 import lombok.Getter;
